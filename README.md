@@ -1,6 +1,10 @@
+![Software Developer](https://scontent.fccu27-2.fna.fbcdn.net/v/t1.6435-9/129012546_1063421834104780_4860904465376081772_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=HBVN6xyygXQAX8GsMdd&_nc_ht=scontent.fccu27-2.fna&oh=00_AfDRzRup0wUfPIFD21GDyX8kmjVy7qYnIpy-0T_1pjFiIw&oe=649F042E)
+
+
+
 ### Hi there 👋, Samiul Alam
 #### Software Developer
-![Software Developer](https://scontent.fccu27-2.fna.fbcdn.net/v/t1.6435-9/129012546_1063421834104780_4860904465376081772_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=HBVN6xyygXQAX8GsMdd&_nc_ht=scontent.fccu27-2.fna&oh=00_AfDRzRup0wUfPIFD21GDyX8kmjVy7qYnIpy-0T_1pjFiIw&oe=649F042E)
+
 
 Hi, I'm currently pursuing MCA (Dept. of CSE) from Jadavpur University.
 
