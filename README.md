@@ -8,9 +8,7 @@
 #### Software Developer
 
 
-Hi, I'm currently pursuing MCA (Dept. of CSE) from Jadavpur University.
-
-Being a Mathematics Graduate, I have always been found of solving problems and puzzels. I love to do coding and have a good knowledge of Data Structures and Algorithms.
+Quick Learner with passion for a competitive and challenging career that demands the best of my abilities and skills which I can apply for the overall success of the Organization and helps me enhance my current skill-set and broaden my knowledge.
 
 ---
 
